@@ -1,4 +1,4 @@
-# nmea-ais-generator
+# NMEA-AIS-Generator
 
 [![Python 3.8.5](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/release/python-385/)
 [![pydantic](https://img.shields.io/badge/pydantic-1.8.2-blue.svg)](https://pydantic-docs.helpmanual.io/)
